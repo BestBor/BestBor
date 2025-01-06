@@ -16,7 +16,7 @@
 #### Testing
 - Postman, Jest, Mockito
 #### Databases
-- SQL (MySQL, PostgreSQL), MongoDB, Redis, RabbitMQ
+- SQL (MySQL, PostgreSQL), MongoDB, Redis
 
 #### ORM - ODM
 - Prisma, Mongoose, Hibernate
