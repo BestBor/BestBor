@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Basil! 👋
 
-<!--
-**BestBor/BestBor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year student in Systems and Computer Engineering at the National University of Colombia with a strong focus on backend development and modern technologies. I aspire to grow into full-stack development while honing my expertise in software architecture and microservices.
 
-Here are some ideas to get you started:
+### Tools and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+- Python, Go, Java, JavaScript
+
+#### Frameworks
+- Spring, Django, FastAPI, React, Express.js
+  
+#### DevOps
+- Docker, Kubernetes, AWS
+
+### Testing
+- Postman, Jest, Mockito
+
+
+#### Databases
+- SQL (MySQL, PostgreSQL), MongoDB, Redis, RabbitMQ
+
+#### ORM - ODM
+- Prisma, Mongoose, Hibernate
+
+### About Me
+
+- I enjoy solving complex problems, designing scalable systems, and learning continuously.
+- Proficient in algorithms, complexity analysis (Big-O), and design patterns.
+- A proactive team player with strong communication skills and a focus on sharing knowledge.
+
+Thanks for visiting my profile!
